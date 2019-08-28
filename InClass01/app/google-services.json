@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "319576730849",
+    "firebase_url": "https://inclass01-beadb.firebaseio.com",
+    "project_id": "inclass01-beadb",
+    "storage_bucket": "inclass01-beadb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319576730849:android:5f1542b1898240be",
+        "android_client_info": {
+          "package_name": "com.example.inclass01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319576730849-4ahcp0oo45v6uvii43l23ukna75769aq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.inclass01",
+            "certificate_hash": "bafb363ed95ca11e2fdce337cb31f82e1bd6d4ee"
+          }
+        },
+        {
+          "client_id": "319576730849-k18qcka7a5be7rl0kvmi2b2c6ut7c5n2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnlvKL6qVKCox1CGPVDzJ0Q2hAOQPx5yE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319576730849-k18qcka7a5be7rl0kvmi2b2c6ut7c5n2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
